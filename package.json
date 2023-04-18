@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://yaroslavasenko.github.io/team-progect-20",
+  "homepage": "https://YaroslavaSenko.github.io/team-progect-20",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /yaroslavasenko.github.io/team-progect-20/"
+    "build": "parcel build src/*.html --public-url /team-progect-20/"
   },
   "repository": {
     "type": "git",
